@@ -11,3 +11,4 @@ Afin de mener à bien leur impérieuse mission, il fûrent contraints de se muni
 * Des Ordinatoris Portabilis Mysticus, ressource commune mais souvent de piètre qualité.
 * Un flux d'ondes magiques apportant la connaissance
 * Des réserves de patience et de boissons énergisantes
+* Une souris coopérative
